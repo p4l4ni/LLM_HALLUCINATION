@@ -1,9 +1,9 @@
 # LLM_HALLUCINATION
 #  Hallucination Behavior Signatures: Profiling and Mining LLM Response Volatility via NoSQL Context Memory
 
-**Author:** Navitha E  
+**Author:** PALANIAPPAN M, NAVITHA E  
 **Institution:** Vellore Institute of Technology, Chennai, India  
-**Contact:** navitha.e2022@vitstudent.ac.in  
+**Contact:** palaniappan.m2022@vitstudent.ac.in , navitha.e2022@vitstudent.ac.in  
 
 ---
 
